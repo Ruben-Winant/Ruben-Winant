@@ -1,4 +1,4 @@
-<img src="bureau3000.png" align="right" width="600" />
+<img src="bureau3000.png" align="right" width="500" />
 
 ### Hi, I'm Ruben,
 A junior developer from Bierbeek. 
