@@ -1,5 +1,6 @@
 <img src="bureau3000.png" align="right" width="600" />
-###Hi there i'm Ruben,
+
+### Hi, I'm Ruben,
 A junior developer from Bierbeek. 
 
 I enjoy building websites and learning new stuff like app and game development and am motivated to do so.
