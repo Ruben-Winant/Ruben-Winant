@@ -1,3 +1,6 @@
+
+<div align="left">
+  
 ### Hi there i'm Ruben,
 A junior developer from Bierbeek. 
 
@@ -11,5 +14,8 @@ Here are some things about me:
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+</div>
+
 
 <img src="bureau3000.png" align="right" width="600" />
