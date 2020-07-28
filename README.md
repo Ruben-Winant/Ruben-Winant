@@ -1,4 +1,4 @@
-<img src="https://github.com/Ruben-Winant/Ruben-Winant/blob/master/bureau3000.png" align="right" width="500" />
+<img src="https://github.com/Ruben-Winant/Ruben-Winant/blob/master/bureau3000.png" align="right" width="450" />
 
 ## Hi, I'm Ruben,
 A junior developer from Bierbeek. 
