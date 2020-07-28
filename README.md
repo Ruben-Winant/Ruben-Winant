@@ -12,7 +12,7 @@ Here are some things about me:
 - 🔭 I’m currently working on building some portfolio projects
 - 🌱 I’m currently learning the PERN stack
 - 💬 Ask me about anything
-- 📫 How to reach me: [GitHub](http://github.com/Ruben-Winant)
+- 📫 How to reach me: [GitHub](http://github.com/Ruben-Winant) | [portfolio](https://ruben-winant.github.io/portfolio/)
 - ⚡ Fun fact: ...
 
 </div>
