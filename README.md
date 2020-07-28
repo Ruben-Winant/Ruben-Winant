@@ -1,6 +1,4 @@
-
-<div align="left">
-  
+<img src="bureau3000.png" align="right" width="600" />
 ### Hi there i'm Ruben,
 A junior developer from Bierbeek. 
 
@@ -15,7 +13,4 @@ Here are some things about me:
 - 📫 How to reach me: [GitHub](http://github.com/Ruben-Winant) | [portfolio](https://ruben-winant.github.io/portfolio/)
 - ⚡ Fun fact: ...
 
-</div>
 
-
-<img src="bureau3000.png" align="right" width="600" />
