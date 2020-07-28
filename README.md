@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there i'm Ruben,
+A junior developer from Bierbeek. 
 
-<!--
-**Ruben-Winant/Ruben-Winant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building websites and learning new stuff like app and game development and am motivated to do so.
+I'm currently looking to get my first job. So if you got any questions or just want to chat, feel free to message me!
 
-Here are some ideas to get you started:
+Here are some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on building some portfolio projects
+- 🌱 I’m currently learning the PERN stack
+- 💬 Ask me about anything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img align="right" />
