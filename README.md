@@ -1,7 +1,7 @@
 <img src="https://github.com/Ruben-Winant/Ruben-Winant/blob/master/bureau3000.png" align="right" width="450" />
 
 ## Hi, I'm Ruben,
-#Front-end developer from Bierbeek, Belgium 
+# Front-end developer from Bierbeek, Belgium 
 
 Welcom to my Github page, feel free to browse around. You'll mostly find some spare time projects in here. 
 
