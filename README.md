@@ -8,6 +8,5 @@ Welcom to my Github page, feel free to browse around. You'll mostly find some sp
 Here are some things about me:
 
 - 🔭 I’m currently working on building some portfolio projects. So if you got any ideas, send em my way
-- 🌱 I’m currently learning the Python and Next.js
 - 📫 How to reach me: [GitHub](http://github.com/Ruben-Winant) | [portfolio](https://rubenwinant.be)
 - 💬 Feel free to ask me about anything!
